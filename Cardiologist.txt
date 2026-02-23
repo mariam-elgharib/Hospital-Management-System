@@ -1,0 +1,24 @@
+DC2001
+Name:mohamed mamdouh
+age:34
+email:mohamedmoahmoud34@yahoo.com
+Phonenumber:011435678
+---
+DC2002
+Name:amr youssef
+age:43
+email:amryoussef43@gmail.com
+Phonenumber:011234567893
+---
+DC2003
+Name:mark zuckerburg
+age:55
+email:markzuckerburg@gmail.com
+Phonenumber:0100234567765
+---
+DC2004
+Name:yousra mohamed
+age:56
+email:yousra345@outlook.com
+Phonenumber:01234564473
+---

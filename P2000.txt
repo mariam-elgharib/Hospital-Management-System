@@ -1,0 +1,83 @@
+Name: Mariam
+ID: P2000
+Age: 19
+phonenumber: 0102154
+Email: mariamelgharib3@gmail.com
+field:2
+history: Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: s
+Past Surgeries:
+Surgery 1: s
+
+Name:ma
+ID:P2000
+Age:12
+Phone number:01256478963
+Email:mariam@gmail.com
+Field:1
+History:Allergies:
+Allergy 1: a
+Current Medication:
+Medication 1: a
+Past Surgeries:
+Surgery 1: a
+
+--------------------------------
+Name:mariam
+ID:P2000
+Age:23
+Phone number:01245769352
+Email:mariam@gmail.com
+Field:1
+History:Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: q
+Past Surgeries:
+Surgery 1: q
+
+--------------------------------
+Name:j
+ID:P2000
+Age:20
+Phone number:2223322
+Email:jauhs@gmail.com
+Field:1
+History:Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: s
+Past Surgeries:
+Surgery 1: s
+
+--------------------------------
+Name:n
+ID:P2000
+Age:1
+Phone number:22221221
+Email:jus@gmail.com
+Field:1
+History:Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: s
+Past Surgeries:
+Surgery 1: s
+
+--------------------------------
+Name:j
+ID:P2000
+Age:2
+Phone number:222222
+Email:judy@gmail.com
+Field:1
+History:Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: a
+Past Surgeries:
+Surgery 1: a
+
+--------------------------------

@@ -1,0 +1,13 @@
+Name: mariam
+ID: P2003
+Age: 19
+Phone number: 92942949503
+field:3
+Email: mariam@gmail.com
+field:2
+history: Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: d
+Past Surgeries:
+Surgery 1: d

@@ -1,0 +1,13 @@
+Name:Mostafa waleed
+ID:P2004
+age:25
+Phonenumber:01154321892
+email:mostafawaled45@gmail.com
+field:2
+history: Allergies:
+Allergy 1: s
+Current Medication:
+Medication 1: s
+Past Surgeries:
+Surgery 1: s
+--------------------------------
